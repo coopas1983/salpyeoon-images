@@ -1,0 +1,37 @@
+{
+  "horizon": "daily",
+  "summary": "게시 후 16.6시간이 경과하였으나 노출(Views 0)이 발생하지 않아 초기 도달(Exposure) 단계에서 실패함. 클릭 및 구매 데이터는 미수집 상태임.",
+  "lanes": {
+    "exposure": {
+      "status": "weak",
+      "evidence": "게시 16.6시간 경과 시점 조회수(Views) 0회"
+    },
+    "engagement": {
+      "status": "weak",
+      "evidence": "노출 부재로 인한 반응(Reactions 0, Comments 0) 부재"
+    },
+    "click": {
+      "status": "unknown",
+      "evidence": "제휴 링크 클릭 수치 데이터 없음"
+    },
+    "conversion": {
+      "status": "unknown",
+      "evidence": "구매 전환 수치 데이터 없음"
+    }
+  },
+  "directives": [
+    "노출 유발을 위해 게시 시간대 변경 및 첫 문장 후킹 방식 재검토",
+    "계정의 도달 제한 또는 알고리즘 노출 여부 점검"
+  ],
+  "avoid": [
+    "노출이 발생하지 않는 시간대에 검증되지 않은 단발성 포스팅 반복"
+  ],
+  "promote": [
+    "초기 노출 및 클릭을 유도하는 직관적 문제 제기형 상단 텍스트 구조 테스트"
+  ],
+  "winning_patterns": [],
+  "confidence": "low",
+  "sample_size": 1,
+  "data_freshness_note": "게시 후 16.6시간이 경과하여 지표 반영 시간은 충분하나, 표본 수(1개)가 적고 노출이 전혀 없어 신뢰도가 낮음.",
+  "updated_at": "2026-08-27T13:36:33.226687+09:00"
+}
