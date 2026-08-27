@@ -1,19 +1,19 @@
 {
-  "topic": "가을맞이 집 단장과 공간 분위기 전환",
+  "topic": "가을맞이 새 집 단장 및 환절기 공간 리프레시",
   "category": "home",
-  "why_now": "여름 휴가 복귀 후 가을과 추석을 앞둔 8월 말, 유통업계의 가을맞이 집 단장 프로모션과 가구 브랜드의 가격 인하 소식이 맞물리며 공간 정돈 및 리빙 소비 수요가 본격화되고 있습니다.",
-  "consumer_hook": "무더위가 한풀 꺾이고 계절이 바뀌는 지금, 커튼과 침구 교체만으로 집안 분위기를 아늑하게 바꿀 수 있는 최적의 시기입니다.",
+  "why_now": "8월 말 여름 휴가 복귀 시즌과 함께 가을 제철 신호가 시작되며, 유통가에서도 가을맞이 집 단장 및 수납·침구 교체 마케팅이 본격화되는 시점입니다.",
+  "consumer_hook": "휴가 다녀온 후 지친 집안 분위기, 여름 때 때묻은 침구와 옷장부터 깔끔하게 가을 톤으로 정돈해볼까?",
   "product_search_terms": [
-    "가을 차엽 이불 세트",
-    "가을 암막 커튼",
-    "모듈형 드레스룸 수납함"
+    "가을 차렵이불",
+    "드레스룸 수납함",
+    "암막 커튼"
   ],
   "content_angles": [
-    "큰돈 들이지 않고 침구와 커튼 교체만으로 연출하는 가을 인테리어 팁",
-    "여름 옷 정리와 가을 옷 맞이를 위한 가성비 수납·정리 솔루션 비교",
-    "계절 전환기 거실·침실 분위기 변신을 위한 비포&애프터 체크리스트"
+    "여름 옷 정리와 가을 옷 분류를 동시에 해결하는 효율적인 드레스룸 수납 정리 팁",
+    "환절기 숙면을 위한 침구 소재 비교 (차렵이불 vs 순면 침구 vs 모달 침구)",
+    "큰 비용 없이 침실 분위기를 바꾸는 가을 톤 커튼 및 미니 조명 연출법"
   ],
-  "community_angle": "이번 가을 집 분위기를 바꾼다면 가장 먼저 교체하고 싶은 리빙 아이템은 무엇인가요? (침구 vs 커튼 vs 조명)",
+  "community_angle": "여름 지나 가을맞이 집 정리를 시작할 때, 침구·수납·커튼 중 분위기 전환에 가장 효과적이었던 항목은 무엇인가요?",
   "evidence": [
     {
       "radar": "news",
@@ -23,7 +23,7 @@
     {
       "radar": "news",
       "title": "[가치소비] 이케아, 18억 투입해 161개 제품 가격 인하…고물가 속 ‘가격 접근성’ 가치투자 - consumerwide.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96bVVGRHF1alcyaFlvdDRqVWUzV25xTW40alBWR2xPcnlJRzFkNHJZTFBrWl81cUxkNlVNmXR1RVZwV2lLUE1WaEt1MHRHdTB1SUVqVkNGdXFUSzJtd1BNbVRLRTVzYXk3UUprT2F5NNIBc0FVX3lxTE9za3BHRGx2YWg4amVVNDREN01zNGhYY2g1X1VCS3Y3Z0sxYVpoXzIxRVl2RXNod1JydFdoM0JoOFR5NnJZTEJjYXJmdlA2YzlqSjg5ZFpXOGItN2E4Vk9PVDk3Q3BmRndMMHp1bDFLVnN3bW8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96bVVGRHF1alcyaFlvdDRqVWUzV25xTW40alBWR2xPcnlJRzFkNHJZTFBrWl81cUxkNlVNbXR1RVZwV2lLUE1WaEt1MHRHdTB1SUVqVkNGdXFUSzJtd1BNbVRLRTVzYXk3UUprT2F5NNIBc0FVX3lxTE9za3BHRGx2YWg4amVVNDREN01zNGhYY2g1X1VCS3Y3Z0sxYVpoXzIxRVl2RXNod1JydFdoM0JoOFR5NnJZTEJjYXJmdlA2YzlqSjg5ZFpXOGItN2E4Vk9PVDk3Q3BmRndMMHp1bDFLVnN3bW8?oc=5"
     },
     {
       "radar": "season",
@@ -32,30 +32,54 @@
     },
     {
       "radar": "season",
-      "title": "추석 사전 준비",
+      "title": "가을 제철 시작",
       "url": ""
     }
   ],
   "scores": {
-    "timeliness": 24,
-    "conversation": 18,
+    "timeliness": 25,
+    "conversation": 20,
     "product_fit": 20,
-    "buy_reason": 19,
-    "expandability": 14,
-    "total": 95
+    "buy_reason": 20,
+    "expandability": 15,
+    "total": 100
   },
   "no_topic": false,
   "reason_if_no_topic": "",
   "date": "2026-08-27",
-  "discovered_at": "2026-08-27T13:21:41.678595+09:00",
-  "radar_collected_at": "2026-08-27T13:21:41.678604+09:00",
+  "discovered_at": "2026-08-27T13:41:51.729117+09:00",
+  "radar_collected_at": "2026-08-27T13:41:51.729123+09:00",
   "radar_counts": {
     "trend": 10,
-    "news": 45,
+    "news": 46,
     "season": 4
   },
   "radar_preview": {
     "trend": [
+      {
+        "title": "한화오션",
+        "url": "https://trends.google.com/trending/rss?geo=KR",
+        "published": "Wed, 26 Aug 2026 20:30:00 -0700",
+        "summary": "",
+        "radar": "trend",
+        "source": "Google Trends Trending Now RSS"
+      },
+      {
+        "title": "박보검",
+        "url": "https://trends.google.com/trending/rss?geo=KR",
+        "published": "Wed, 26 Aug 2026 20:20:00 -0700",
+        "summary": "",
+        "radar": "trend",
+        "source": "Google Trends Trending Now RSS"
+      },
+      {
+        "title": "국내선",
+        "url": "https://trends.google.com/trending/rss?geo=KR",
+        "published": "Wed, 26 Aug 2026 20:20:00 -0700",
+        "summary": "",
+        "radar": "trend",
+        "source": "Google Trends Trending Now RSS"
+      },
       {
         "title": "lg 트윈스",
         "url": "https://trends.google.com/trending/rss?geo=KR",
@@ -111,30 +135,6 @@
         "summary": "",
         "radar": "trend",
         "source": "Google Trends Trending Now RSS"
-      },
-      {
-        "title": "김하성",
-        "url": "https://trends.google.com/trending/rss?geo=KR",
-        "published": "Wed, 26 Aug 2026 19:50:00 -0700",
-        "summary": "",
-        "radar": "trend",
-        "source": "Google Trends Trending Now RSS"
-      },
-      {
-        "title": "재벌x형사 2",
-        "url": "https://trends.google.com/trending/rss?geo=KR",
-        "published": "Wed, 26 Aug 2026 19:50:00 -0700",
-        "summary": "",
-        "radar": "trend",
-        "source": "Google Trends Trending Now RSS"
-      },
-      {
-        "title": "고기압",
-        "url": "https://trends.google.com/trending/rss?geo=KR",
-        "published": "Wed, 26 Aug 2026 19:40:00 -0700",
-        "summary": "",
-        "radar": "trend",
-        "source": "Google Trends Trending Now RSS"
       }
     ],
     "news": [
@@ -166,6 +166,15 @@
         "source": "Google News RSS"
       },
       {
+        "title": "고객 할인에 가맹점 공급가도 낮춘다…한솥도시락 ‘상생 할인’ 진행 - 뉴스탭",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wdDhvWldJS2lFQU5WMng3R0JvWGFpN2J0SzRpdUE3T3dCd1ZFYWdwMzMxd1U0UXNyVzNBcmxIbkxqSDJVRTRCZ1F3QWEtdW5MT0ZXM2ZLREhURkpWb1dRa1l5eFZHRUoyWkc2LQ?oc=5",
+        "published": "Tue, 25 Aug 2026 07:48:05 GMT",
+        "summary": "고객 할인에 가맹점 공급가도 낮춘다…한솥도시락 ‘상생 할인’ 진행 뉴스탭",
+        "radar": "news",
+        "lens": "가격 인하 할인 소비",
+        "source": "Google News RSS"
+      },
+      {
         "title": "대구경북 산업용 전기료 최대 10%↓…“균형발전 위해선 더 내려야 한다” - 영남일보",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16V2hJbW0xdTJCbmlCM3c5Szd2cmVUUHRVYjdTVUg5c0lvcmV2M1NiRnZQTkFRb3NiY3dlZVp0UkRZbEFUWjV1TlFjTWhuc20tNXMyNFdVYVA0ZnhwYXlHQW5Kc1NmNGp3TUtz?oc=5",
         "published": "Wed, 26 Aug 2026 10:09:12 GMT",
@@ -179,15 +188,6 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtWTRMc2VqWWJJWWViUlVFcDdpVGFRS3JwS3lEYjRmWWw4YVRGd3EzWUp5OFRMek1lcjNFZjZHMmdrSE5oSXdPU3VoZmctdEJXeGRaQ09wczVxeG8xX1hMZk4wVU45UmdndmZERVlZLU1nUQ?oc=5",
         "published": "Wed, 26 Aug 2026 08:00:29 GMT",
         "summary": "\"전기료 지산지소가 합리적\"…가격 왜곡·형평성 문제도 제기 KB Think",
-        "radar": "news",
-        "lens": "가격 인하 할인 소비",
-        "source": "Google News RSS"
-      },
-      {
-        "title": "고객 할인에 가맹점 공급가도 낮춘다…한솥도시락 ‘상생 할인’ 진행 - 뉴스탭",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wdDhvWldJS2lFQU5WMng3R0JvWGFpN2J0SzRpdUE3T3dCd1ZFYWdwMzMxd1U0UXNyVzNBcmxIbkxqSDJVRTRCZ1F3QWEtdW5MT0ZXM2ZLREhURkpWb1dRa1l5eFZHRUoyWkc2LQ?oc=5",
-        "published": "Tue, 25 Aug 2026 07:48:05 GMT",
-        "summary": "고객 할인에 가맹점 공급가도 낮춘다…한솥도시락 ‘상생 할인’ 진행 뉴스탭",
         "radar": "news",
         "lens": "가격 인하 할인 소비",
         "source": "Google News RSS"
@@ -247,15 +247,6 @@
         "source": "Google News RSS"
       },
       {
-        "title": "식품·생활용품 업계, ‘특화상품’으로 반려동물시장 승부수 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xR3p4NWo3QTFiaFBLZFJBekVQUXUyVWMzSWtfU0h2S1NvaHZhRE1zYmU4V1hKbGlyNUZxU2RzanBWSmpFejZXczAzaHRUYmhYQkJYSg?oc=5",
-        "published": "Tue, 25 Aug 2026 02:39:07 GMT",
-        "summary": "식품·생활용품 업계, ‘특화상품’으로 반려동물시장 승부수 v.daum.net",
-        "radar": "news",
-        "lens": "신제품 출시 생활용품",
-        "source": "Google News RSS"
-      },
-      {
         "title": "Apple 매장들이 신제품 출시를 위한 준비를 시작하고 있습니다. 스마트홈 시장에 대한 대대적인 공세가 임박했습니다. - Letem světem Applem",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRS1KVEZVTFI0NzFZWkR4c0ZtZHgzc0E5M2hmeE5oUmgyNFMzTVppQ2M1bEZ2bDZQem9iYlZqYTFvVVp4QXBQczJTR1ZPT1dBSXgtR1lLek1xY0lrMDM2a2hyNnNYdlNWcUJBcDhOeVI0bGpaWTdOZWVjOTFGN1d6cFBNSnczWUlFZTdlcFlVR0FaenMwSWYySm5aWDNUaEJobHAtOHNnVTdDdG5NT2RwdHZhdDctYUItRU44RTNPUHB3LVctNUZwYXlxelprWU9USWdJdEhTNGlSR0xIQ1lYNw?oc=5",
         "published": "Mon, 24 Aug 2026 11:13:26 GMT",
@@ -287,6 +278,15 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxc1hIWFNJM1BZWEVIekhSeExoc294T19UZUw5OXUtZHJON3l2Z212N0N2dTJPTnVYc1VpZFFFa1RqRVVac05ydFFTVVBuYnBwSXJ2ekFXdGMweTI4bGNCOFRxMVZFcUZfNDhIeQ?oc=5",
         "published": "Mon, 24 Aug 2026 06:10:09 GMT",
         "summary": "[리빙트렌드] 한샘, AI 컨시어지 도입…커튼 온라인 구매 편의성 높인다 外 베이비뉴스",
+        "radar": "news",
+        "lens": "신제품 출시 생활용품",
+        "source": "Google News RSS"
+      },
+      {
+        "title": "[SV 유통 단신] hy, 두유 발효 ‘슈퍼100 소이거트’ 출시 外 - 소셜밸류",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXOHRORW9WQlZ2SzU3ZjlxSUlNbmhsc2Nua2w4ckhmZjJmM1U5NDlRSDllOXhOTVdqdHRYZmVOWklJbW91QUZBRkxmczFKWGdIdV9QTnVxeHhSZnpBc19GTzMybXFNYnlFZ2FDRtIBbEFVX3lxTFBXOHRORW9WQlZ2SzU3ZjlxSUlNbmhsc2Nua2w4ckhmZjJmM1U5NDlRSDllOXhOTVdqdHRYZmVOWklJbW91QUZBRkxmczFKWGdIdV9QTnVxeHhSZnpBc19GTzMybXFNYnlFZ2FDRg?oc=5",
+        "published": "Mon, 24 Aug 2026 07:41:30 GMT",
+        "summary": "[SV 유통 단신] hy, 두유 발효 ‘슈퍼100 소이거트’ 출시 外 소셜밸류",
         "radar": "news",
         "lens": "신제품 출시 생활용품",
         "source": "Google News RSS"
@@ -355,10 +355,10 @@
         "source": "Google News RSS"
       },
       {
-        "title": "아모레퍼시픽 헤라, 컬러 지속력 높인 ‘센슈얼 샤인 틴트’ 출시 - 메디컬투데이",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92M1ZHbjgwM2JURVlYOHZYRkxaWmd2WUJTamdwcFRsSmhBb1U1TEhrWDdUc0ZjVVlWdTI0cmozeWxIblRGTGRBXzZHVUJtd3lTRGx5ejdwMzZ2WDZOLVNQcDgxZ2l5TWdRem9lcw?oc=5",
-        "published": "Mon, 24 Aug 2026 05:13:36 GMT",
-        "summary": "아모레퍼시픽 헤라, 컬러 지속력 높인 ‘센슈얼 샤인 틴트’ 출시 메디컬투데이",
+        "title": "쇼핑을 넘어 경험으로  K뷰티 트렌드 중심에 서다 - PressReader",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3B2X2dPNG5mcy10ajVya0NrWXJldHczUFozUEI3NWxuWS1xdW1Wc20tNlAySnltTjE4MnhOUXh2Z091SXRPMEt1aEkzd013NTVWbE9zRWYyek14bldqaDJqNE41NnJLUWp1YmdGVTJTUm1QV2ZDamdlcndiTGNLNGxHSWpnS20z?oc=5",
+        "published": "Tue, 25 Aug 2026 19:51:34 GMT",
+        "summary": "쇼핑을 넘어 경험으로  K뷰티 트렌드 중심에 서다 PressReader",
         "radar": "news",
         "lens": "뷰티 화장품 신제품",
         "source": "Google News RSS"
@@ -445,6 +445,15 @@
         "source": "Google News RSS"
       },
       {
+        "title": "식품·생활용품 업계, ‘특화상품’으로 반려동물시장 승부수 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WZnByM0M1dHBJMGRScDlQZlJXUlM1Ny1JdEM1RGgyd3Ytb0JvbWk2Qm00TTg3RlZhcHl4a2p6Tnp6VzBjamc?oc=5",
+        "published": "Tue, 25 Aug 2026 02:39:07 GMT",
+        "summary": "식품·생활용품 업계, ‘특화상품’으로 반려동물시장 승부수 v.daum.net",
+        "radar": "news",
+        "lens": "반려동물 용품 트렌드",
+        "source": "Google News RSS"
+      },
+      {
         "title": "300만원 침대부터 수제 리본까지…K-펫 브랜드, 중국 프리미엄 시장 정조준 - 뉴스아이이에스",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PN3V1cTY2R3RnX2ZjbTdRQmt1TjlqbWJvc0RuRVpfVU1pRWhhNDFDUDFvTk1iRXkwY20yaF9WdFVRM3hLRG1yRnUtbUFMczJGelBEQVhYSWlUNjRYQ1N2VDB4WXpwRDVxMXdoVnZzbS1xd9IBckFVX3lxTE5PN3V1cTY2R3RnX2ZjbTdRQmt1TjlqbWJvc0RuRVpfVU1pRWhhNDFDUDFvTk1iRXkwY20yaF9WdFVRM3hLRG1yRnUtbUFMczJGelBEQVhYSWlUNjRYQ1N2VDB4WXpwRDVxMXdoVnZzbS1xdw?oc=5",
         "published": "Tue, 25 Aug 2026 05:15:24 GMT",
@@ -455,8 +464,8 @@
       },
       {
         "title": "대상펫라이프 닥터뉴토, ‘마이펫페어 2026’ 참가...맞춤형 펫푸드 경쟁력 알린다 - 팝콘뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZnVkNHRrdzhyRlhJV2xtWTFZMG1SWXRtNDJvZ2k0OXpTQmtZb2F6YldOT0RiYnNGM1BpdTVXUWF0Rnp5OUh4c2dIdExrY2Mwb1o5RkhqbW1ySWR4X3NEOXJEeGd4ZVZqUlFEam5n0gFyQVVfeXFMTXgtZGtkWm03cUROamVPWS1JUVBPaDgxZ2UzOTlvWHJiRGFQekhxOWZFOUt6VHlPMkhNZ2szdktqV291a3RZNmFXcDJtSE9YQlAwelIwUmtXLW9ZT1U5ZnMxVjVVSmZqNDdLaTI4SWxFeWdR?oc=5",
-        "published": "Wed, 26 Aug 2026 00:06:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14LWRrZFptN3FETmplT1ktSVFQT2g4MWdlMzk5b1hyYkRhUHpIcTlmRTlLelR5TzJITWdrM3ZLaldvdWt0WTZhV3AybUhPWEJQMHpSMFJrVy1vWU9VOWZzMVY1VUpmajQ3S2kyOElsRXlnUdIBckFVX3lxTE14LWRrZFptN3FETmplT1ktSVFQT2g4MWdlMzk5b1hyYkRhUHpIcTlmRTlLelR5TzJITWdrM3ZLaldvdWt0WTZhV3AybUhPWEJQMHpSMFJrVy1vWU9VOWZzMVY1VUpmajQ3S2kyOElsRXlnUQ?oc=5",
+        "published": "Wed, 26 Aug 2026 00:54:24 GMT",
         "summary": "대상펫라이프 닥터뉴토, ‘마이펫페어 2026’ 참가...맞춤형 펫푸드 경쟁력 알린다 팝콘뉴스",
         "radar": "news",
         "lens": "반려동물 용품 트렌드",
@@ -533,15 +542,6 @@
         "radar": "news",
         "lens": "먹거리 유통 신제품",
         "source": "Google News RSS"
-      },
-      {
-        "title": "CU, 대구 치맥축제 우승작 전국 상품화…지역 맛집 판로 넓힌다 - 스마트경제",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82M2t6QVVpbkUxbW92SkFjaGdKck9qT1Y4SXljaUtwOExSWGdva1hjVEl6TGowRFFqZEo1dnpuQjdOcFpkYlJDLUtveC03TjREUDhYMEluX2syNEpCS3Zlck5xZHZXLTFPTGxnN2RHOGM?oc=5",
-        "published": "Tue, 25 Aug 2026 02:20:00 GMT",
-        "summary": "CU, 대구 치맥축제 우승작 전국 상품화…지역 맛집 판로 넓힌다 스마트경제",
-        "radar": "news",
-        "lens": "먹거리 유통 신제품",
-        "source": "Google News RSS"
       }
     ],
     "season": [
@@ -576,7 +576,7 @@
     {
       "radar": "news",
       "title": "[가치소비] 이케아, 18억 투입해 161개 제품 가격 인하…고물가 속 ‘가격 접근성’ 가치투자 - consumerwide.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96bVVGRHF1alcyaFlvdDRqVWUzV25xTW40alBWR2xPcnlJRzFkNHJZTFBrWl81cUxkNlVNmXR1RVZwV2lLUE1WaEt1MHRHdTB1SUVqVkNGdXFUSzJtd1BNbVRLRTVzYXk3UUprT2F5NNIBc0FVX3lxTE9za3BHRGx2YWg4amVVNDREN01zNGhYY2g1X1VCS3Y3Z0sxYVpoXzIxRVl2RXNod1JydFdoM0JoOFR5NnJZTEJjYXJmdlA2YzlqSjg5ZFpXOGItN2E4Vk9PVDk3Q3BmRndMMHp1bDFLVnN3bW8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96bVVGRHF1alcyaFlvdDRqVWUzV25xTW40alBWR2xPcnlJRzFkNHJZTFBrWl81cUxkNlVNbXR1RVZwV2lLUE1WaEt1MHRHdTB1SUVqVkNGdXFUSzJtd1BNbVRLRTVzYXk3UUprT2F5NNIBc0FVX3lxTE9za3BHRGx2YWg4amVVNDREN01zNGhYY2g1X1VCS3Y3Z0sxYVpoXzIxRVl2RXNod1JydFdoM0JoOFR5NnJZTEJjYXJmdlA2YzlqSjg5ZFpXOGItN2E4Vk9PVDk3Q3BmRndMMHp1bDFLVnN3bW8?oc=5"
     }
   ]
 }
