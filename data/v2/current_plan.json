@@ -1,56 +1,64 @@
 {
-  "topic": "9월 환절기 시작, 속건조와 피부장벽을 잡는 텍스처 중심 가을 스킨케어",
+  "topic": "9월 환절기 시작, 건조해진 피부를 위한 수분 충전 미스트 & 보습 앰플",
   "category": "beauty",
-  "why_now": "9월 1일 환절기에 접어들며 급격한 일교차로 피부 속건조 고민이 늘어나는 시점이며, 가을 성수기를 맞아 텍스처와 장벽 케어 중심의 뷰티 신제품이 쏟아지고 있습니다.",
-  "consumer_hook": "날씨가 바뀌자마자 피부 당김이 시작되었는데, 기존 세럼만으로는 부족함을 느낄 때 어떤 제형의 보습 제품으로 바꿔야 할지 고민되는 순간입니다.",
+  "why_now": "9월 1일 환절기 접어들며 일교차와 건조함이 시작되는 시점에 가을 맞이 뷰티 신제품(PDRN 미스트, 고보습 앰플) 출시 뉴스가 집중되고 있습니다.",
+  "consumer_hook": "계절이 바뀌며 속당김이나 건조함이 느껴질 때 바로 활용할 수 있는 환절기 수분·장벽 케어 꿀템에 관심이 높아지고 있습니다.",
   "product_search_terms": [
-    "환절기 앰플",
-    "피부장벽 크림",
-    "수분 보습 세럼"
+    "PDRN 미스트",
+    "수분 미스트",
+    "환절기 앰플"
   ],
   "content_angles": [
-    "가을 환절기 스킨케어: 단순 성분보다 제형(텍스처) 밀착도가 속건조를 잡는 이유",
-    "화장대 갈아엎지 않고 기존 스킨케어에 보습 앰플 한 방울 레이어링하는 사용 팁",
-    "수부지 대 건성, 계절 교체기 피부 타입별 아침·저녁 장벽 케어 루틴 비교"
+    "세안 직후 수분 증발을 막는 세안 후 3초 미스트 활용법",
+    "PDRN 및 NAD 성분으로 알아보는 환절기 피부 장벽 케어 팁",
+    "가을철 끈적이지 않으면서 속건조 잡는 앰플 레이어링 노하우"
   ],
-  "community_angle": "9월 들어서자마자 속건조나 피부 당김 느끼신 분 계신가요? 가을 환절기에 꼭 재구매하는 정착템이 있다면 공유해 주세요!",
+  "community_angle": "9월 첫날부터 속당김 느끼신 분 계신가요? 환절기 스킨케어 루틴으로 미스트 vs 앰플 중 어떤 걸 먼저 바꾸시나요?",
   "evidence": [
+    {
+      "radar": "news",
+      "title": "화장품신문 (Beautynury.com) :: 케어놀로지, PDRN 2064ppm 담은 ‘리턴 플럼핑 피디알엔 인 미스트’ 출시 - 뷰티누리",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3RVBvT2FKc3YwM0tRN0RyMnRQNGxvSEE3R2RnRk8yZDBMTkVyVXdzZDdCVHBQMjFXRXVpUW56YTJzNjNSMkR6TWgxbVRhcFFkRTRHcHp5T1dOQ0tWdVA4?oc=5"
+    },
+    {
+      "radar": "news",
+      "title": "가을 성수기, ‘한정판 뷰티’ 쏟아진다 [최기자의 화장품 털기] - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYRGJEMlRWdHBYWERpbE1pckRNQXltMUJrYVdxd3RqcWNGX1c2b1BJQXA0Mm1xVzBablRtLUJFTVpRTGlCb1VOSThWQUtULTBQY0FoSUpFTElqcVFrY1FRa25Id1ZsUU9tTG5CLTV2ckU?oc=5"
+    },
     {
       "radar": "season",
       "title": "환절기",
       "url": ""
-    },
-    {
-      "radar": "news",
-      "title": "가을 성수기, ‘한정판 뷰티’ 쏟아진다",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYRGJEMlRWdHBYWERpbE1pckRNQXltMUJrYVdxd3RqcWNGX1c2b1BJQXA0Mm1xVzBablRtLUJFTVpRTGlCb1VOSThWQUtULTBQY0FoSUpFTElqcVFrY1FRa25Id1ZsUU9tTG5CLTV2ckU?oc=5"
-    },
-    {
-      "radar": "news",
-      "title": "화장품 성분보다 텍스처...바이오더마가 읽은 K뷰티 소비자 변화",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rQkU3WTB5dThNQ0FmS2Q3MjlBeEU3X1FnVko1LVVaT25Ic0hZVXJ6aWhGRnVfeGhXd3MxSW9CTHVMT05tMEJBcUNfZWlJWDNYWVdpYXZqRUFYNUJweUVnbGZDWEkzd19YUkE?oc=5"
     }
   ],
   "scores": {
     "timeliness": 25,
-    "conversation": 20,
+    "conversation": 19,
     "product_fit": 20,
-    "buy_reason": 20,
-    "expandability": 15,
-    "total": 100
+    "buy_reason": 19,
+    "expandability": 14,
+    "total": 97
   },
   "no_topic": false,
   "reason_if_no_topic": "",
   "date": "2026-09-01",
-  "discovered_at": "2026-09-01T12:47:08.780821+09:00",
-  "radar_collected_at": "2026-09-01T12:47:08.780845+09:00",
+  "discovered_at": "2026-09-01T12:54:06.121381+09:00",
+  "radar_collected_at": "2026-09-01T12:54:06.121388+09:00",
   "radar_counts": {
     "trend": 10,
-    "news": 48,
+    "news": 46,
     "season": 4
   },
   "radar_preview": {
     "trend": [
+      {
+        "title": "이진호",
+        "url": "https://trends.google.com/trending/rss?geo=KR",
+        "published": "Mon, 31 Aug 2026 19:50:00 -0700",
+        "summary": "",
+        "radar": "trend",
+        "source": "Google Trends Trending Now RSS"
+      },
       {
         "title": "홍명보",
         "url": "https://trends.google.com/trending/rss?geo=KR",
@@ -122,17 +130,18 @@
         "summary": "",
         "radar": "trend",
         "source": "Google Trends Trending Now RSS"
-      },
-      {
-        "title": "정창성",
-        "url": "https://trends.google.com/trending/rss?geo=KR",
-        "published": "Mon, 31 Aug 2026 17:40:00 -0700",
-        "summary": "",
-        "radar": "trend",
-        "source": "Google Trends Trending Now RSS"
       }
     ],
     "news": [
+      {
+        "title": "추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wMTlqY29HZWRmVlRYSDJYN29FUjhhT2VQQTBOaXRJOS1qbzFwMkFUdVo5QnlFd213RXNnVFl1Z19XWVNuSXFzOGQ2RnZPN0lYZzhlLWRhR2p6QUYxaXNvbFBtbXhiY1lnbGVmd1NtZTLSAXBBVV95cUxPMDE5amNvR2VkZlZUWEgyWDdvRVI4YU9lUEEwTml0STktam8xcDJBVHVaOUJ5RXdtd0VzZ1RZdWdfV1lTbklxczhkNkZ2TzdJWGc4ZS1kYUdqekFGMWlzb2xQbW14YmNZZ2xlZndTbWUy?oc=5",
+        "published": "Tue, 01 Sep 2026 01:56:37 GMT",
+        "summary": "추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인 - 머니투데이 머니투데이",
+        "radar": "news",
+        "lens": "가격 인하 할인 소비",
+        "source": "Google News RSS"
+      },
       {
         "title": "13대 추석 성수품 16만3000톤 공급…농축산물 전 품목 할인 지원 - 식품저널 foodnews",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pZ2hJcXF3SmYxbC1oQkYtSUFkZ1lwRHVfcDh2TUVZY2tYeDEyc1U5OHowVXpIekdTQk11NTFJTkdsNTJWUVFUenNqWGFzX2xNcndUZ0hlc2JHb0ZoUkRsbzBmWFQxTkdfX2E2VA?oc=5",
@@ -152,37 +161,10 @@
         "source": "Google News RSS"
       },
       {
-        "title": "추석 성수품 최대 50% 할인…연휴 나흘간 고속도로 통행료 면제 - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1NVEyT0FhakxmMG1uOEYyX2Z3RlUzQVhvMmdzeVdyQ0dvaExmckNkNi1BcDNlR1BCbzY4Z2ZER1VheVJFSjBhUjhDRHU4Ty1JSVo1dm1lTVVWd9IBWkFVX3lxTFB1NVEyT0FhakxmMG1uOEYyX2Z3RlUzQVhvMmdzeVdyQ0dvaExmckNkNi1BcDNlR1BCbzY4Z2ZER1VheVJFSjBhUjhDRHU4Ty1JSVo1dm1lTVVWdw?oc=5",
-        "published": "Tue, 01 Sep 2026 01:54:00 GMT",
-        "summary": "추석 성수품 최대 50% 할인…연휴 나흘간 고속도로 통행료 면제 뉴스1",
-        "radar": "news",
-        "lens": "가격 인하 할인 소비",
-        "source": "Google News RSS"
-      },
-      {
-        "title": "\"추석 장바구니 물가 잡아라\"…농축산물 할인 590억 투입 - 더팩트",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xVXhqaVNuTXRfRmVjcHhCdkxjSW12azhLbFVrSmJIMTJxcWRoQ1pnWGNYbW91Zk5VS2FrdVg3U1plQlVMeE5XTThOSERUdFlaMGRFRtIBVEFVX3lxTE8xVXhqaVNuTXRfRmVjcHhCdkxjSW12azhLbFVrSmJIMTJxcWRoQ1pnWGNYbW91Zk5VS2FrdVg3U1plQlVMeE5XTThOSERUdFlaMGRFRg?oc=5",
-        "published": "Tue, 01 Sep 2026 01:53:00 GMT",
-        "summary": "\"추석 장바구니 물가 잡아라\"…농축산물 할인 590억 투입 더팩트",
-        "radar": "news",
-        "lens": "가격 인하 할인 소비",
-        "source": "Google News RSS"
-      },
-      {
         "title": "온누리상품권 10% 할인…숙박쿠폰 8만장·통행료 면제[추석 민생대책] - 뉴시스",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdHd6dWh5UmVEbFJ1dXNHcTMyd01QZjVfZ3lJQmViYUVFR2lGWUFTMmJfWnAzMnM4WmdwZ195S2lmcVllSGJ4SFdjd2dPZmwzblZvekV1NU42a3lmTkpjbnRlN1gyTFVLY1k2WV9qZWprak03VWsxStIBeEFVX3lxTE9JdHd6dWh5UmVEbFJ1dXNHcTMyd01QZjVfZ3lJQmViYUVFR2lGWUFTMmJfWnAzMnM4WmdwZ195S2lmcVllSGJ4SFdjd2dPZmwzblZvekV1NU42a3lmTkpjbnRlN1gyTFVLY1k2WV9qZWprak03VWsxSg?oc=5",
         "published": "Tue, 01 Sep 2026 01:47:49 GMT",
         "summary": "온누리상품권 10% 할인…숙박쿠폰 8만장·통행료 면제[추석 민생대책] 뉴시스",
-        "radar": "news",
-        "lens": "가격 인하 할인 소비",
-        "source": "Google News RSS"
-      },
-      {
-        "title": "추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인 - supple.kr",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsYUdBSVRWNTB3bkdKV3VnZ3gwMy1FNnA5OHQ3dkxVQkxVd3M2OVMyTHIyY0FMYkRyWXVTQ1l3N25WTDAzdnhEcjdUTmE3RWhMdUoyMDBfdkZaamxx?oc=5",
-        "published": "Tue, 01 Sep 2026 01:56:37 GMT",
-        "summary": "추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인 supple.kr",
         "radar": "news",
         "lens": "가격 인하 할인 소비",
         "source": "Google News RSS"
@@ -201,6 +183,15 @@
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84b3RBTGNheDVnRzFSaG16RVE1cDloQ1o3MmhjdHdQVko3cjlMNEVaM3JFLUlVVTc1a2FuXzlyWGYyRVlybHlFbk9MVHY?oc=5",
         "published": "Sun, 30 Aug 2026 22:07:00 GMT",
         "summary": "트럼프의 소고기 가격 인하 정책, 실감 효과는 미미할 듯 이코노믹포스트",
+        "radar": "news",
+        "lens": "가격 인하 할인 소비",
+        "source": "Google News RSS"
+      },
+      {
+        "title": "‘마르디메크르디’가 중국을 직접 선택한 이유 - 패션포스트",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vNHFrZTVYQWRET3l3WUlneS1fcW9HczdPUWZuN3R6RE1WVW5YTEVockxqejVlYkpvdTFjV1hRTDhidzhHY3JVRVBzeFpIRlN1OTctUUJxellFSVZRaDdzNWtmWXRYQ3pIMG1aUnFtbWQxbjRTdlE?oc=5",
+        "published": "Sun, 30 Aug 2026 07:45:07 GMT",
+        "summary": "‘마르디메크르디’가 중국을 직접 선택한 이유 패션포스트",
         "radar": "news",
         "lens": "가격 인하 할인 소비",
         "source": "Google News RSS"
@@ -260,6 +251,15 @@
         "source": "Google News RSS"
       },
       {
+        "title": "손 씻기도 '미세플라스틱 케어'로…디컴포지션, 폼 타입 '5mm 핸드워시' 출시 - 네이트",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1dEdVTS1nUGJPbEtKa1ZDbFJrTFpmTUE0ZWhjSzM5VldyTG4zOUZHR25BR3k4cGdGSkdtQkRReTNpaXlYUmRnUlNnWnJXcm9KaEpr?oc=5",
+        "published": "Tue, 01 Sep 2026 00:49:00 GMT",
+        "summary": "손 씻기도 '미세플라스틱 케어'로…디컴포지션, 폼 타입 '5mm 핸드워시' 출시 네이트",
+        "radar": "news",
+        "lens": "신제품 출시 생활용품",
+        "source": "Google News RSS"
+      },
+      {
         "title": "디컴포지션, 미세플라스틱 흡착 제거하는 330mL 리필형 5mm 핸드워시 선보여 - 스페셜타임스",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cGVCdlNodzdhbmNJMzN6c0xjZGtBNExsMkNGM2picWxWdXM2SjBXWF9qOVFLclB0T2xZVzdxa2dQTnlDYWtkemVSam1RMEhuQjR3R084azZnQ3c0RS1LQWdGRDNNLThvR1NKbm9vbDRKMkU?oc=5",
         "published": "Tue, 01 Sep 2026 00:49:45 GMT",
@@ -296,12 +296,12 @@
         "source": "Google News RSS"
       },
       {
-        "title": "라이온코리아, 캡슐형 세탁 보조제 ‘비트 몬스터 부스터’ 2종 출시 - 스페셜타임스",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91Qkt3QmN5S0g2M3VjemxIWDN2dzhSV0xad3ZRb2Q4cTVTV21oY01CN3RxNkd6WHVDcF8yVUtySG9ZQXdRWDJBUjBQNldHTWx0ZThTTzJXaUZXRXlRdGV4X0JVZjFmbkxQSHdyRGxFT24wZw?oc=5",
-        "published": "Mon, 31 Aug 2026 23:54:42 GMT",
-        "summary": "라이온코리아, 캡슐형 세탁 보조제 ‘비트 몬스터 부스터’ 2종 출시 스페셜타임스",
+        "title": "화장품신문 (Beautynury.com) :: 케어놀로지, PDRN 2064ppm 담은 ‘리턴 플럼핑 피디알엔 인 미스트’ 출시 - 뷰티누리",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3RVBvT2FKc3YwM0tRN0RyMnRQNGxvSEE3R2RnRk8yZDBMTkVyVXdzZDdCVHBQMjFXRXVpUW56YTJzNjNSMkR6TWgxbVRhcFFkRTRHcHp5T1dOQ0tWdVA4?oc=5",
+        "published": "Mon, 31 Aug 2026 21:00:00 GMT",
+        "summary": "화장품신문 (Beautynury.com) :: 케어놀로지, PDRN 2064ppm 담은 ‘리턴 플럼핑 피디알엔 인 미스트’ 출시 뷰티누리",
         "radar": "news",
-        "lens": "신제품 출시 생활용품",
+        "lens": "뷰티 화장품 신제품",
         "source": "Google News RSS"
       },
       {
@@ -341,10 +341,10 @@
         "source": "Google News RSS"
       },
       {
-        "title": "유니앤코어, AI 기반 뷰티·헬스 플랫폼 구축…제품 경쟁력 강화 나선다 - widedaily.com",
+        "title": "유니앤코어, AI 기반 뷰티·헬스 플랫폼 구축…제품 경쟁력 강화 나선다 - 와이드경제",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUmZrOVY3UDJKSFF4cTRyOWRzbldiNlZCRU1FTFVkdlBfdEZTWDhQSDg5TXo0c2NRbkVuaFJzUkw2bmFLZklVbE1pYlZiTkdRdHdrYV9fREgyWHZzYW5zNHB3clFQdFM5WnZDWA?oc=5",
         "published": "Mon, 31 Aug 2026 07:46:20 GMT",
-        "summary": "유니앤코어, AI 기반 뷰티·헬스 플랫폼 구축…제품 경쟁력 강화 나선다 widedaily.com",
+        "summary": "유니앤코어, AI 기반 뷰티·헬스 플랫폼 구축…제품 경쟁력 강화 나선다 와이드경제",
         "radar": "news",
         "lens": "뷰티 화장품 신제품",
         "source": "Google News RSS"
@@ -359,30 +359,12 @@
         "source": "Google News RSS"
       },
       {
-        "title": "LG생활건강 ‘더후’, NAD 연구 앞세워 글로벌 럭셔리 뷰티 공략 - 뉴스프리존",
+        "title": "LG생활건강 ‘더후’, NAD 연구 앞세워 글로벌 럭셔리 뷰티 공략 - newsfreezone.co.kr",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5U1NZUmh6cDhubEI4SUVlaWkzRExXOE1qdHdCYW5ucDdaWW5QSVlDM1lHTVpsb2NtVjNqLUFEZkhwSzluM016dmZCM1Z3TExPNmdOYjlOMVJ6NERlcDlIQ1RrbTJKMWpTY0t3SnhpekdzbFZhSDdF0gF3QVVfeXFMUHlTU1lSaHpwOG5sQjhJRWVpaTNETFc4TWp0d0Jhbm5wN1pZblBJWUMzWUdNWmxvY21WM2otQURmSHBLOW4zTXp2ZkIzVndMTE82Z05iOU4xUno0RGVwOUhDVGttMkoxalNjS3dKeGl6R3NsVmFIN0U?oc=5",
         "published": "Mon, 31 Aug 2026 05:00:50 GMT",
-        "summary": "LG생활건강 ‘더후’, NAD 연구 앞세워 글로벌 럭셔리 뷰티 공략 뉴스프리존",
+        "summary": "LG생활건강 ‘더후’, NAD 연구 앞세워 글로벌 럭셔리 뷰티 공략 newsfreezone.co.kr",
         "radar": "news",
         "lens": "뷰티 화장품 신제품",
-        "source": "Google News RSS"
-      },
-      {
-        "title": "K-뷰티 호황인데 '색조'는 뒷걸음…하반기 수출 변수 - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UEQ3WHZ0TmoyekEyb3IybVF3bGs3ZFBSdzJabVozdktOQV9OWW8zclBYd3lKdVBDTFVuV3VhTW0xWGxIazdOdU1OdkNURHE3b2ZFWEZTRXJQMVF3dGhtZHRnOHHSAWpBVV95cUxOWHp6elFzY21NcVVURnBueGo3RkU1NkJqMklzbWFPSXh4OEpfMHJxTDM5SFdKc0tnRG9fQ0xfaTE3OHg0UVdqY3BiYld3dHpvY3Q3eWZoVXlScXVCblZKNDExMmRkYWVuSEVB?oc=5",
-        "published": "Sat, 29 Aug 2026 21:25:00 GMT",
-        "summary": "K-뷰티 호황인데 '색조'는 뒷걸음…하반기 수출 변수 뉴스1",
-        "radar": "news",
-        "lens": "뷰티 화장품 신제품",
-        "source": "Google News RSS"
-      },
-      {
-        "title": "[유통가 NOW] 쿠쿠, 제이시스메디칼, 삼양사 상쾌환, W컨셉, 하인즈, 파파존스 - 에너지경제신문",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mMFlZWURfZHdLVDhpeG5UaHFFS3dYNm9kS2pLYVBFWVdfUEl1eUpzQWhidkhaMnBtWU4yZ3czQTFlSkRIQzFYWGdSdzFUMVZOQ1NtTDlodDVfbE5uUmlyLVJR?oc=5",
-        "published": "Tue, 01 Sep 2026 01:30:00 GMT",
-        "summary": "[유통가 NOW] 쿠쿠, 제이시스메디칼, 삼양사 상쾌환, W컨셉, 하인즈, 파파존스 에너지경제신문",
-        "radar": "news",
-        "lens": "가전 생활 신제품",
         "source": "Google News RSS"
       },
       {
@@ -395,10 +377,10 @@
         "source": "Google News RSS"
       },
       {
-        "title": "쿠쿠, 롯데하이마트 잠실점 팝업스토어 운영 - hansbiz.co.kr",
+        "title": "쿠쿠, 롯데하이마트 잠실점 팝업스토어 운영 - 한스경제",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tOHp5MGJ4eDBDeXY3SXJiYXo3YkpyU3hsZ2pHXzZyT1NmVmh0bUotT0VBcFE5T0VueXJyamJEQ0NSREk5NVNEbld2bXpsZDc1WkFEeGtpR2lYSFUzYURBNmZPMWR6bEhlS19vZNIBb0FVX3lxTE90UHp4Z3VXWERaYmtfcF9xcjctdTdwU1dxSUlDcXhxbE1sYUVEN25jNEhCTW5odV9PT0YxTlV5eHpxSE1ZN3N0dEJyY1NHR2Q0T29LQVg1U1JlaWJCbThpVW1yM080a2Jxa09sX2ZwMA?oc=5",
         "published": "Tue, 01 Sep 2026 02:28:22 GMT",
-        "summary": "쿠쿠, 롯데하이마트 잠실점 팝업스토어 운영 hansbiz.co.kr",
+        "summary": "쿠쿠, 롯데하이마트 잠실점 팝업스토어 운영 한스경제",
         "radar": "news",
         "lens": "가전 생활 신제품",
         "source": "Google News RSS"
@@ -413,10 +395,10 @@
         "source": "Google News RSS"
       },
       {
-        "title": "50만원대 中가전 쏟아진다…샤오미 '가성비 신제품' 상륙 - news.nate.com",
+        "title": "50만원대 中가전 쏟아진다…샤오미 '가성비 신제품' 상륙 - 네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51T29nNkpJRG5TdDBoZVlTWjRtQVloVjRwQ1pETXAzeUNjaVdWRlBlSi15RG8yYnQ1Q2Z2ZE5yM0I1OU00anJ1M2Z6VlpXb1dhZXl3?oc=5",
         "published": "Tue, 01 Sep 2026 02:44:00 GMT",
-        "summary": "50만원대 中가전 쏟아진다…샤오미 '가성비 신제품' 상륙 news.nate.com",
+        "summary": "50만원대 中가전 쏟아진다…샤오미 '가성비 신제품' 상륙 네이트",
         "radar": "news",
         "lens": "가전 생활 신제품",
         "source": "Google News RSS"
@@ -449,6 +431,15 @@
         "source": "Google News RSS"
       },
       {
+        "title": "밀레, 식기세척기에도 AI 카메라...IFA서 집안일 자동화 제시 - 데일리안",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80dkZfMUJtTE95b3A4RXBScXZoVWhuOGZvOE5OUkVOeWtiOThlTWU4eWFuTmNHX0JKUUpKNTNwd3RrUUtKX05SVE10RmlTTXlTV1FpVHJNMTZxZG95ZDhPMQ?oc=5",
+        "published": "Sun, 30 Aug 2026 21:00:00 GMT",
+        "summary": "밀레, 식기세척기에도 AI 카메라...IFA서 집안일 자동화 제시 데일리안",
+        "radar": "news",
+        "lens": "가전 생활 신제품",
+        "source": "Google News RSS"
+      },
+      {
         "title": "홈앤쇼핑, 가을 패션 신상품 잇따라 출시…로메오질리·에끌라드 신제품 선봬 - 나눔경제뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83U0NkSkl2eDloY3RreWxYR2tpaG1COVpFUWllU0N4Zkl3d0JwN3ZraXh1a3Q0dVZCN2lYYU1FN1hhQTIxSUgxNmVicGJEOEc0T0VhdEh2MjJPQjdvTkZaWnFkY3h1al9nWWd6UQ?oc=5",
         "published": "Mon, 31 Aug 2026 04:48:50 GMT",
@@ -467,15 +458,6 @@
         "source": "Google News RSS"
       },
       {
-        "title": "MCL, “내수·수출 연계 시너지 극대화” - TIN뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5mdEpYMWJFakZiNHJELThMN3BHaVlUZ1lXQ084S2hRVUVET2lsOFM5QWRPU2drZDl3UzBuSmZ1SkxvN2Ix?oc=5",
-        "published": "Sat, 29 Aug 2026 11:51:00 GMT",
-        "summary": "MCL, “내수·수출 연계 시너지 극대화” TIN뉴스",
-        "radar": "news",
-        "lens": "패션 신제품 유행",
-        "source": "Google News RSS"
-      },
-      {
         "title": "반려인 1500만명 시대 `펫셔리 시장` 커진다 [트렌드 경제] - 매일신문",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwaTROQS1aTHNpTFFwVTZ6bTdCbU53NnpaUlF0U0lYYUx4UTM0MzRPSW5rcW5Ddm1jelp3OExhN1RteGFLOVhKT2htNmswNU52T1g1VFZtbVkzT3piblJycjRn?oc=5",
         "published": "Sun, 30 Aug 2026 06:30:00 GMT",
@@ -485,10 +467,10 @@
         "source": "Google News RSS"
       },
       {
-        "title": "반려동물 관리도 자동화 시대…리터로봇, 고양이 자동화장실 국내 시장 확대 - news.nate.com",
+        "title": "반려동물 관리도 자동화 시대…리터로봇, 고양이 자동화장실 국내 시장 확대 - 네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YSVAzOThtSFc5Sm1MWmJxQXVySERSWXNNSlVvRkdramtUUTN2bmw1dS1pMk9QTmZuS3g1RmJjeTJubFB2OEQtcThSVFExaUhSZnRj?oc=5",
         "published": "Tue, 01 Sep 2026 01:02:00 GMT",
-        "summary": "반려동물 관리도 자동화 시대…리터로봇, 고양이 자동화장실 국내 시장 확대 news.nate.com",
+        "summary": "반려동물 관리도 자동화 시대…리터로봇, 고양이 자동화장실 국내 시장 확대 네이트",
         "radar": "news",
         "lens": "반려동물 용품 트렌드",
         "source": "Google News RSS"
@@ -503,10 +485,10 @@
         "source": "Google News RSS"
       },
       {
-        "title": "반려동물 미용 및 제품 시장이 호황을 누리고 있습니다. - Vietnam.vn",
+        "title": "반려동물 미용 및 제품 시장이 호황을 누리고 있습니다. - vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZW9EZlp2V3locjVpUzctME1aUVZObnpuTUhwcFNwaUVrNEZuMmx4LTk3ZzJYQThwdnpUX3BlbGgweU44aERfSVNqLTN3a0p0eFNmb096anB0ZmZJY3pFaFU0WGxNb3NHa2FSaTRiQ1l0dGl5NmV2dTBTVDZ3M0wwQlRHaXpLdjFnYV9nOU9XVTVIUQ?oc=5",
         "published": "Sat, 29 Aug 2026 13:22:00 GMT",
-        "summary": "반려동물 미용 및 제품 시장이 호황을 누리고 있습니다. Vietnam.vn",
+        "summary": "반려동물 미용 및 제품 시장이 호황을 누리고 있습니다. vietnam.vn",
         "radar": "news",
         "lens": "반려동물 용품 트렌드",
         "source": "Google News RSS"
@@ -521,21 +503,39 @@
         "source": "Google News RSS"
       },
       {
-        "title": "추모 액자·천도재·글쓰기…성장하는 '펫로스 케어 시장' [펫 상실학 개론] - news.nate.com",
+        "title": "추모 액자·천도재·글쓰기…성장하는 '펫로스 케어 시장' [펫 상실학 개론] - 네이트",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMjY3ZmdLazRoSTZoWXl0Nlh5eTkyaE50TURHX0tYWGU0TFVRUkNaSHEybUt2U2FBZFBNUmk5eWs4TWQ2bVlES215Si12S0VJQ1E3VjNaa2Fhcm44Wkc3Vg?oc=5",
         "published": "Sat, 29 Aug 2026 21:12:00 GMT",
-        "summary": "추모 액자·천도재·글쓰기…성장하는 '펫로스 케어 시장' [펫 상실학 개론] news.nate.com",
+        "summary": "추모 액자·천도재·글쓰기…성장하는 '펫로스 케어 시장' [펫 상실학 개론] 네이트",
         "radar": "news",
         "lens": "반려동물 용품 트렌드",
         "source": "Google News RSS"
       },
       {
-        "title": "[안산소식]9월5일 호수공원서 '펫페스티벌' 개최 - news.nate.com",
+        "title": "[안산소식]9월5일 호수공원서 '펫페스티벌' 개최 - 네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMFZBMVlkX2hENWQwbEVWWG5Ic0VfZ1QyM1pCa252U3FFWE11VHYtVkV5QTFqMjU0UHdnVFRTcU9EdjltV3ltM29NUjV3b2RzSktJ?oc=5",
         "published": "Mon, 31 Aug 2026 05:32:00 GMT",
-        "summary": "[안산소식]9월5일 호수공원서 '펫페스티벌' 개최 news.nate.com",
+        "summary": "[안산소식]9월5일 호수공원서 '펫페스티벌' 개최 네이트",
         "radar": "news",
         "lens": "반려동물 용품 트렌드",
+        "source": "Google News RSS"
+      },
+      {
+        "title": "[유통갤러리] 롯데마트, 9월 '통큰데이' 진행…가을 먹거리 최대 반값 外 - 뷰어스",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQnotZUpjVGt2RFhNdWNRRktlLUZST2hqc2owcGdnLVIxNWxCRkJodkdzYnhUblZGQjdyWDBFbFk3UDJUbmtPOWVjUURwa0loWnhiOXp3Tzg?oc=5",
+        "published": "Tue, 01 Sep 2026 01:16:43 GMT",
+        "summary": "[유통갤러리] 롯데마트, 9월 '통큰데이' 진행…가을 먹거리 최대 반값 外 뷰어스",
+        "radar": "news",
+        "lens": "먹거리 유통 신제품",
+        "source": "Google News RSS"
+      },
+      {
+        "title": "영광 먹거리, 세계인의 식탁 향하는 K-푸드로 새로운 도약 준비 - 투어코리아",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Yb0txUGhjVFliM3NnVnZfbnFuOFV4SGZyZ1BLT2NFZFJDUTJDTEhOVDdIUWRIRjhWckdESFJ6aEo2dEJOWjJ4VDRSdG52NEM0Wl9jOXVPM0g5UWhRcFZ2MWs3ckIxVFFKZXFZclFn?oc=5",
+        "published": "Tue, 01 Sep 2026 03:04:25 GMT",
+        "summary": "영광 먹거리, 세계인의 식탁 향하는 K-푸드로 새로운 도약 준비 투어코리아",
+        "radar": "news",
+        "lens": "먹거리 유통 신제품",
         "source": "Google News RSS"
       }
     ],
@@ -565,13 +565,13 @@
   "sources": [
     {
       "radar": "news",
-      "title": "가을 성수기, ‘한정판 뷰티’ 쏟아진다",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYRGJEMlRWdHBYWERpbE1pckRNQXltMUJrYVdxd3RqcWNGX1c2b1BJQXA0Mm1xVzBablRtLUJFTVpRTGlCb1VOSThWQUtULTBQY0FoSUpFTElqcVFrY1FRa25Id1ZsUU9tTG5CLTV2ckU?oc=5"
+      "title": "화장품신문 (Beautynury.com) :: 케어놀로지, PDRN 2064ppm 담은 ‘리턴 플럼핑 피디알엔 인 미스트’ 출시 - 뷰티누리",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3RVBvT2FKc3YwM0tRN0RyMnRQNGxvSEE3R2RnRk8yZDBMTkVyVXdzZDdCVHBQMjFXRXVpUW56YTJzNjNSMkR6TWgxbVRhcFFkRTRHcHp5T1dOQ0tWdVA4?oc=5"
     },
     {
       "radar": "news",
-      "title": "화장품 성분보다 텍스처...바이오더마가 읽은 K뷰티 소비자 변화",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rQkU3WTB5dThNQ0FmS2Q3MjlBeEU3X1FnVko1LVVaT25Ic0hZVXJ6aWhGRnVfeGhXd3MxSW9CTHVMT05tMEJBcUNfZWlJWDNYWVdpYXZqRUFYNUJweUVnbGZDWEkzd19YUkE?oc=5"
+      "title": "가을 성수기, ‘한정판 뷰티’ 쏟아진다 [최기자의 화장품 털기] - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYRGJEMlRWdHBYWERpbE1pckRNQXltMUJrYVdxd3RqcWNGX1c2b1BJQXA0Mm1xVzBablRtLUJFTVpRTGlCb1VOSThWQUtULTBQY0FoSUpFTElqcVFrY1FRa25Id1ZsUU9tTG5CLTV2ckU?oc=5"
     }
   ]
 }
